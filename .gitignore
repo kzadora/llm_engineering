@@ -131,6 +131,8 @@ env.bak/
 venv.bak/
 llms/
 llms.bak/
+.python-version
+
 
 # Spyder project settings
 .spyderproject
